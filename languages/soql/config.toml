@@ -1,0 +1,5 @@
+name = "SOQL"
+grammar = "soql"
+path_suffixes = ["soql"]
+line_comments = ["// "]
+tab_size = 4
